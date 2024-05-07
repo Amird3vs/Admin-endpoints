@@ -1,0 +1,74 @@
+.tableContainer {
+    height: 500px;
+    overflow-y: auto;
+}
+
+.tableContainer1 {
+    height: 500px;
+    overflow-y: auto;
+    padding: 0 20px;
+}
+
+.fileTable {
+    width: 100%;
+    border-collapse: collapse;
+    color: #010101;
+    background-color: #fff;
+}
+
+.fileTable th,
+.fileTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.fileTable th,
+.action {
+    background-color: #BCB88A;
+    color: #3C5448;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    border-top: #808080;
+}
+
+.deleteButton {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.deleteButton i {
+    color: red;
+    font-size: 20px;
+}
+
+.deleteButton:hover i {
+    color: darkred;
+}
+
+.actionButton {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.actionsCell {
+    display: flex;
+    flex-direction: row;
+    width: 80px;
+}
+
+.action {
+    width: 80px;
+}
+
+.fileTable tr:hover {
+    background-color: #e8e8e8;
+}
+
+.active {
+    background-color: #BCB88A;
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/words-style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <main>
+        <header class="nav">
+            <div class="logo-container">
+                <a href="/"></a>
+                <img src="img/logo-img.jpg">
+                <h1 class="name">SalinSenyas</h1>
+            </div>
+            <div class="profile-dropdown" onclick="toggleDropdown()">
+                <div class="profile-info">
+                    <img src="img/profile.png" class="profile-icon">
+                    <p class="user" id="authenticatedUser"></p>
+                </div>
+                <div class="dropdown-content" id="dropdownContent">
+                    <button class="logoutbtn" onclick="logout()"><i
+                            class="fa-solid fa-arrow-right-from-bracket"></i>Sign out</button>
+                </div>
+            </div>
+        </header>
+        <div class="content-container">
+            <div class="side-bar">
+                <div class="side-bar-header">
+                    <h1 class="side-bar-title">Admin Panel</h1>
+                </div>
+                <div class="nav__links">
+                    <ul>
+                        <li class="active"><a href="/"><i class="fas fa-chart-bar"></i> Dashboard</a></li>
+                        <li><a href="/create"><i class="fas fa-pen"></i> Create Word</a></li>
+                        <li><a href="/words"><i class="fas fa-edit"></i> Existing Words</a></li>
+                        <li><a href="/fileInsertion"><i class="fas fa-file-alt"></i> SignTudy File Insertion</a></li>
+                        <li><a href="/accounttrans"><i class="fas fa-exchange-alt"></i> Admin Account Transfer</a></li>
+                    </ul>
+                </div>
+            </div>
+            <section class="content">
+                <div class="contentTainer">
+                    <h1 class="content-title">Dashboard</h1>
+                    <div class="Dashboard-container">
+                        <div class="Dashboard">
+                            <h3 class="Dashboard-title">Phrases count</h3>
+                            <div class="Dashboard-content">
+                                <h1 class="Dashboard-amount">30</h1>
+                            </div>
+                        </div>
+                        <div class="Dashboard Dashboardvid">
+                            <h3 class="Dashboard-title">Current video</h3>
+                            <iframe style="margin-left: 5px;" width="260" class="video" height="190"
+                                src="https://drive.google.com/file/d/104zeQirbynlG3mRVyKHWcseT2OpZx1ye/preview"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="Dashboard Dashboardvid">
+                            <h3 class="Dashboard-title">Current PDF</h3>
+                            <iframe style="margin-left: 5px;" width="260" class="video" height="190"
+                                src="https://drive.google.com/file/d/1mcbVbbZu2tFt9S32cOJJjgdoFVz-3oJi/preview"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="Dashboard Dashboardvid">
+                            <h3 class="Dashboard-title">Current Presentation</h3>
+                            <iframe style="margin-left: 5px;" width="260" class="video" height="190"
+                                src="https://drive.google.com/file/d/1k0p9NJ9goDvq_4zULsu_jO2-ikbkvQkB/preview"
+                                frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="title-container">
+                        <h1 class="content-title">Phrases</h1>
+                        <a class="linktowords" href="/words">See all</a>
+                    </div>
+                    <div class="tableContainer1">
+                        <table class="fileTable" id="fileTable">
+                            <thead>
+                                <tr>
+                                    <th>Key</th>
+                                    <th>Value</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tableBody">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+</body>
+<script src="scripts/index.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</html>

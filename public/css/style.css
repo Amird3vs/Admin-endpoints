@@ -1,0 +1,330 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap");
+
+:root {
+    --shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    --main-green: #3C5448;
+    --main-beige: #BCB88A;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html,
+body {
+    height: 100vh;
+    overflow: hidden;
+}
+
+main {
+    width: 100vw;
+    height: 100%;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 80px;
+    background: white;
+    padding: 1rem;
+    box-shadow: var(--shadow);
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logo-container img {
+    height: 55px;
+    width: 55px;
+}
+
+.name {
+    margin-left: 10px;
+    color: var(--main-green);
+}
+
+.side-bar {
+    width: 300px;
+    height: 100%;
+    background-color: var(--main-green);
+}
+
+.side-bar-header {
+    padding: 2rem;
+    color: #fff;
+}
+
+.nav__links ul {
+    list-style: none;
+    padding: 10px;
+}
+
+.nav__links li {
+    margin-bottom: 0.5rem;
+    transition: 0.2s ease;
+    border-radius: 10px
+}
+
+.nav__links li:hover {
+    margin-left: 10px;
+}
+
+.nav__links i {
+    margin-right: 10px;
+    fill: currentColor;
+}
+
+.nav__links a {
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.nav__links a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+}
+
+.profile-dropdown {
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    margin-left: auto;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.profile-info {
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-dropdown img {
+    width: 30px;
+    height: 30px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 50px;
+    min-width: 140px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    border-radius: 10px;
+    z-index: 1;
+    transition: display 0.3s ease-in-out;
+}
+
+.dropdown-content button:hover {
+    background-color: #ddd;
+}
+
+.logoutbtn {
+    color: #3C5448;
+    background-color: #fff;
+    padding: 10px 20px;
+    width: 100%;
+    border: 1px solid #3C5448;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.logoutbtn i {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.user {
+    margin-left: 10px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    padding: 1rem;
+    background-color: rgba(60, 84, 72, 0.1);
+}
+
+.contentTainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Dashboard-container {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.content-title {
+    color: var(--main-green);
+    margin-bottom: 10px;
+}
+
+.title-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.linktowords {
+    text-decoration: none;
+    margin-left: auto;
+    color: var(--main-green);
+}
+
+.form-container {
+    margin-top: 50px;
+    background-color: #fff;
+    box-shadow: var(--shadow);
+    border-radius: 10px;
+    padding: 2rem;
+    height: fit-content;
+    width: fit-content;
+}
+
+.form-title {
+    margin-bottom: 20px;
+    color: var(--main-green)
+}
+
+.form-title i {
+    margin-left: 10px;
+    color: var(--main-beige);
+}
+
+.subtitle {
+    color: var(--main-beige);
+    margin-bottom: 10px;
+}
+
+.text-input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 0 20px 0;
+    margin-bottom: 20px;
+    border-bottom: 5px dotted #ccc;
+    max-width: 1000px;
+}
+
+.inputKey {
+    width: 300px;
+}
+
+.msgInput {
+    width: 500px;
+}
+
+.text-input {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.text-input label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: var(--main-green);
+}
+
+.text-input input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.text-input input:focus {
+    border: 1px solid #FFA500;
+}
+
+.addBtn {
+    margin-top: 25px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3c5448;
+    color: #fff;
+}
+
+.tranbtn {
+    float: right;
+}
+
+#editButton {
+    display: none;
+}
+
+.active {
+    background-color: #BCB88A;
+}
+
+.Dashboard {
+    position: relative;
+    border-top: 5px solid var(--main-green);
+    background-color: #fff;
+    box-shadow: var(--shadow);
+    height: 200px;
+    width: 270px;
+    padding: 1rem;
+    margin-left: 20px;
+}
+
+.Dashboardvid {
+    padding: 0;
+}
+
+.Dashboardvid .Dashboard-title {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.Dashboard-title {
+    position: absolute;
+    color: var(--main-green);
+    font-weight: bold;
+    z-index: 1;
+}
+
+.Dashboard-content {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.Dashboard-amount {
+    color: var(--main-beige);
+    font-size: 6rem;
+    margin-top: 20px;
+}

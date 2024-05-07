@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add words</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <main>
+        <header class="nav">
+            <div class="logo-container">
+                <img src="img/logo-img.jpg">
+                <h1 class="name">SalinSenyas</h1>
+            </div>
+            <div class="profile-dropdown" onclick="toggleDropdown()">
+                <div class="profile-info">
+                    <img src="img/profile.png" class="profile-icon">
+                    <p class="user" id="authenticatedUser"></p>
+                </div>
+                <div class="dropdown-content" id="dropdownContent">
+                    <button class="logoutbtn" onclick="logout()"><i
+                            class="fa-solid fa-arrow-right-from-bracket"></i>Sign out</button>
+                </div>
+            </div>
+        </header>
+        <div class="content-container">
+            <div class="side-bar">
+                <div class="side-bar-header">
+                    <h1 class="side-bar-title">Admin Panel</h1>
+                </div>
+                <div class="nav__links">
+                    <ul>
+                        <li><a href="/"><i class="fas fa-chart-bar"></i> Dashboard</a></li>
+                        <li class="active"><a href="/create"><i class="fas fa-pen"></i> Create Word</a></li>
+                        <li><a href="/words"><i class="fas fa-edit"></i> Existing Words</a></li>
+                        <li><a href="/fileInsertion"><i class="fas fa-file-alt"></i> SignTudy File Insertion</a></li>
+                        <li><a href="/accounttrans"><i class="fas fa-exchange-alt"></i> Admin Account Transfer</a></li>
+                    </ul>
+                </div>
+            </div>
+            <section class="content">
+
+                <div class="form-container">
+                    <h2 class="form-title">Write a new word <i class="fas fa-pen"></i></h2>
+                    <div class="text-input-container">
+                        <div class="text-input inputKey">
+                            <label for="phraseInput">Key</label>
+                            <input type="text" id="phraseInput" class="phraseInput" placeholder="e.g aaipu">
+                        </div>
+                        <div class="text-input msgInput">
+                            <label for="phraseInput2">Value</label>
+                            <input type="text" id="phraseInput2" class="phraseInput2"
+                                placeholder="e.g Ano ang iyong paboritong ulam?">
+                        </div>
+                        <button class="addBtn" onclick="addTranslation()">
+                            Add
+                        </button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+</body>
+<script src="/scripts/create.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</html>

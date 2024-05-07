@@ -1,0 +1,2309 @@
+{
+    "1": {
+        "apm": "Anong pangalan mo?"
+    },
+    "2": {
+        "aapmp": "Ano ang paburito mong pagkain?"
+    },
+    "3": {
+        "amksmilnt": "Alam mo kung saan makikita itong lugar na ito?"
+    },
+    "4": {
+        "akn": "Asan ka na?"
+    },
+    "5": {
+        "aaisn": " Ano ang ibig sabihin nito?"
+    },
+    "6": {
+        "anppnimm": "Ano pong pangalan ng iyong mga magulang?"
+    },
+    "7": {
+        "asi": "Ambot sa imo"
+    },
+    "8": {
+        "auysn": "Ano ulit yung sinabi nya?"
+    },
+    "9": {
+        "ans": "Asan na sila?"
+    },
+    "10": {
+        "ao": "Ahhhhhh... Okay"
+    },
+    "11": {
+        "a": "AHAHAHAHAHAHA!"
+    },
+    "12": {
+        "adagm": "Alin dito ang gusto mo?"
+    },
+    "13": {
+        "apbgm": "Ano pa bang gusto mo!?"
+    },
+    "14": {
+        "aayoayoa": "Annie, are you okay? Are you okay, Annie?"
+    },
+    "15": {
+        "am": "Ayaw mo?"
+    },
+    "16": {
+        "amy": "Akalain mo yun"
+    },
+    "17": {
+        "amb": "Alam mo ba?"
+    },
+    "18": {
+        "aamy": "Aanhin mo yan?"
+    },
+    "19": {
+        "agmkg": "Anong gagawin mo kung gagawin?"
+    },
+    "20": {
+        "am": " Anong meron?"
+    },
+    "21": {
+        "apmn": "Ang pangit mo naman"
+    },
+    "22": {
+        "amsbm": "Anong mahalaga sa buhay mo? Bakit?"
+    },
+    "23": {
+        "agm": "Asin, gusto mo?"
+    },
+    "24": {
+        "amn": "Ambag mo, nasaan?"
+    },
+    "25": {
+        "ank": "Andito na ko"
+    },
+    "26": {
+        "aonwkpd": "Anong oras na? Wala ka parin dito!"
+    },
+    "27": {
+        "agmmsb": "Anong gusto mong maging sa buhay?"
+    },
+    "28": {
+        "aklb": "Ayos ka lang ba?"
+    },
+    "29": {
+        "an": "Ano na?"
+    },
+    "30": {
+        "akn": "Asan ka na?"
+    },
+    "31": {
+        "afsmo": "Anong favorite song mo?"
+    },
+    "32": {
+        "ahalnb": "Ay, himala ang linis ng bahay"
+    },
+    "33": {
+        "al": "Ayos lang"
+    },
+    "34": {
+        "ai": "Ang init!"
+    },
+    "35": {
+        "agm": "Anong ginagawa mo?"
+    },
+    "36": {
+        "agm": "Ang ganda mo"
+    },
+    "37": {
+        "asm": "Ano'ng sabi mo?"
+    },
+    "38": {
+        "as": "Ang saya!"
+    },
+    "39": {
+        "as": "Ay, sus!"
+    },
+    "40": {
+        "atn": "Ang tagal naman"
+    },
+    "41": {
+        "aamn": "Ang aga mo naman"
+    },
+    "42": {
+        "ab": "Anong balita?"
+    },
+    "43": {
+        "as": "Ang sakit!"
+    },
+    "44": {
+        "as": "Ay, salamat!"
+    },
+    "45": {
+        "alm": "Ang linis mo"
+    },
+    "46": {
+        "anbm": "Ano'ng problema mo?"
+    },
+    "47": {
+        "alm": "Ang lakas mo"
+    },
+    "48": {
+        "an": "Anong nangyari?"
+    },
+    "49": {
+        "abgm": "Ano bang gusto mo?"
+    },
+    "50": {
+        "agn": "Anong gagawin natin?"
+    },
+    "51": {
+        "aotp": "Ano'ng oras tayo pupunta?"
+    },
+    "52": {
+        "atmn": "Ang tagal mo naman"
+    },
+    "53": {
+        "asm": "Anong say mo?"
+    },
+    "54": {
+        "aapn": "Ano ang pangalan niya?"
+    },
+    "55": {
+        "admn": "Ang dami mo naman"
+    },
+    "56": {
+        "atn": "Ay, tara na!"
+    },
+    "57": {
+        "ank": "Ano'ng kulang?"
+    },
+    "58": {
+        "abm": "Ano bang meron?"
+    },
+    "59": {
+        "ambt": "Alam mo ba 'to?"
+    },
+    "60": {
+        "ah": "Ang hirap!"
+    },
+    "61": {
+        "ay": "Ano 'yon?"
+    },
+    "62": {
+        "acm": "Ang cute mo"
+    },
+    "63": {
+        "apm": "Ano'ng palagay mo?"
+    },
+    "64": {
+        "anpn": "Ano'ng plano natin?"
+    },
+    "65": {
+        "asmn": "Ang saya mo naman"
+    },
+    "66": {
+        "apm": "Ano problema mo?"
+    },
+    "67": {
+        "abgm": "Ano bang ginawa mo?"
+    },
+    "68": {
+        "agmn": "Ang aga mo naman"
+    },
+    "69": {
+        "aby": "Ano ba 'yan?"
+    },
+    "70": {
+        "abm": "Ang bigat mo"
+    },
+    "71": {
+        "ansm": "Ano'ng sasabihin mo?"
+    },
+    "72": {
+        "at": "Ano 'to?"
+    },
+    "73": {
+        "adma": "Ang dami mong alam"
+    },
+    "74": {
+        "abt": "Ano ba 'to?"
+    },
+    "75": {
+        "abpm": "Ano bang problema mo?"
+    },
+    "76": {
+        "anpm": "Ano'ng plano mo?"
+    },
+    "77": {
+        "am": "Anong meron?"
+    },
+    "78": {
+        "acmn": "Ang cute mo naman"
+    },
+    "79": {
+        "aims": "Anong ibig mong sabihin?"
+    },
+    "80": {
+        "asn": "Ang saya naman"
+    },
+    "81": {
+        "abgm": "Ano bang ginagawa mo?"
+    },
+    "82": {
+        "aabm": "Ano ang balak mo?"
+    },
+    "83": {
+        "aagm": "Ano ang gusto mo?"
+    },
+    "84": {
+        "abn": "Ano bang nangyari?"
+    },
+    "85": {
+        "almn": "Ang liit mo naman"
+    },
+    "86": {
+        "ay": "Ano 'yan?"
+    },
+    "87": {
+        "abmn": "Ang bilis mo naman"
+    },
+    "88": {
+        "anbm": "Ano'ng balak mo?"
+    },
+    "89": {
+        "ahn": "Ang haba naman"
+    },
+    "90": {
+        "at": "Ano 'to?"
+    },
+    "91": {
+        "aam": "Ang alam mo"
+    },
+    "92": {
+        "aam": "Ano'ng alam mo?"
+    },
+    "93": {
+        "aim": "Ang ingay mo"
+    },
+    "94": {
+        "abm": "Ano bang meron?"
+    },
+    "95": {
+        "an": "Ano'ng nangyari?"
+    },
+    "96": {
+        "asm": "Anong sabi mo?"
+    },
+    "97": {
+        "abm": "Ang bagal mo"
+    },
+    "98": {
+        "agm": "Anong gagawin mo?"
+    },
+    "99": {
+        "aagm": "Ano ang gusto mo?"
+    },
+    "100": {
+        "ay": "Ano 'yon?"
+    },
+    "101": {
+        "asnuk": "Ang sakit ng ulo ko"
+    },
+    "102": {
+        "asmsu": "Ang sakit mo sa ulo!"
+    },
+    "103": {
+        "aapm": "Ano ang plano mo?"
+    },
+    "104": {
+        "aasm": "Ano ang sinabi mo?"
+    },
+    "105": {
+        "ay": "Ano 'yan?"
+    },
+    "106": {
+        "agm": "Ano'ng gusto mo?"
+    },
+    "107": {
+        "atmn": "Ang tigas mo naman"
+    },
+    "108": {
+        "abgm": "Ano bang gusto mo?"
+    },
+    "109": {
+        "anm": "Ano'ng alam mo?"
+    },
+    "110": {
+        "asn": "Anong sabi niya?"
+    },
+    "111": {
+        "ay": "Ano 'yun?"
+    },
+    "112": {
+        "agm": "Ang galing mo"
+    },
+    "113": {
+        "at": "Ano 'to?"
+    },
+    "114": {
+        "ay": "Ano 'yan?"
+    },
+    "115": {
+        "abmn": "Ang bilis mo naman"
+    },
+    "116": {
+        "aagm": "Ano ang gusto mo?"
+    },
+    "117": {
+        "aupm": "Ano ulit pangalan mo?"
+    },
+    "118": {
+        "apn": "Anong pangalan niya?"
+    },
+    "119": {
+        "aagmg": "Ano ang gusto mong gawin?"
+    },
+    "120": {
+        "atm": "Ang tapang mo"
+    },
+    "121": {
+        "ay": "Ano 'yan?"
+    },
+    "122": {
+        "asn": "Ano'ng sabi niya?"
+    },
+    "123": {
+        "am": "Anong meron?"
+    },
+    "124": {
+        "at": "Ano 'to?"
+    },
+    "125": {
+        "au": "Ano ulam?"
+    },
+    "126": {
+        "apnwf": "Ano password ng wifi nyo?"
+    },
+    "127": {
+        "akt": "Adik ka talaga"
+    },
+    "128": {
+        "a": "Aydol!"
+    },
+    "129": {
+        "aal": "Ay! Ang laki!"
+    },
+    "130": {
+        "aknbm": "Ay! Ang kinis ng balat mo!"
+    },
+    "131": {
+        "alksbnkk": "Andito lang kami sa bahay ng kaibigan ko"
+    },
+    "132": {
+        "ab": "Andres Bonifacio"
+    },
+    "133": {
+        "a": "Andoks!"
+    },
+    "134": {
+        "apks": "Ang pogi ko sobra!"
+    },
+    "135": {
+        "asmn": "Ang sipag mo naman"
+    },
+    "136": {
+        "anypn": "Agahan natin yung punta natin"
+    },
+    "137": {
+        "ak": "Aywan ko"
+    },
+    "138": {
+        "akm": "Asan kuya mo?"
+    },
+    "139": {
+        "aat": "Asan ate mo?"
+    },
+    "140": {
+        "amm": "Asan mama mo?"
+    },
+    "141": {
+        "apm": "Asan papa mo?"
+    },
+    "142": {
+        "asm": "Asan si mama?"
+    },
+    "143": {
+        "asp": "Asan si papa?"
+    },
+    "144": {
+        "asa": "Asan si ate?"
+    },
+    "145": {
+        "ask": "Asan si kuya?"
+    },
+    "146": {
+        "ansl": "Asan na silang lahat?"
+    },
+    "147": {
+        "agb": "Ano gagawin bukas?"
+    },
+    "148": {
+        "abatbm": "Anong buwan at araw birthday mo?"
+    },
+    "149": {
+        "amnyj": "Alisin mo nga yan jan!"
+    },
+    "150": {
+        "add": "Andumi-dumi dito!"
+    },
+    "151": {
+        "annum": "Andumi naman ng utak mo!"
+    },
+    "152": {
+        "ams": "Andumi mo sobra!"
+    },
+    "153": {
+        "ab": "Ang baho!"
+    },
+    "154": {
+        "a": "Ayun!"
+    },
+    "155": {
+        "adynm": "Alin dito yung napili mo?"
+    },
+    "156": {
+        "aysmsitspnk": "Ano yung sagot mo sa ikatlong tanong sa pagsusulit natin kahapon?"
+    },
+    "157": {
+        "asmst": "Ano score mo sa test?"
+    },
+    "158": {
+        "aabn": "Anong araw ba ngayon?"
+    },
+    "159": {
+        "amnyisn": "Alamin mo nga yung ibig sabihin nito"
+    },
+    "160": {
+        "aun": "Ano ulam nyo?"
+    },
+    "161": {
+        "asgm": "Anong shampoo ginagamit mo?"
+    },
+    "162": {
+        "asymsb": "Anong sabon yung maganda sa balat?"
+    },
+    "163": {
+        "ahnkm": "Ang haba ng kuko mo"
+    },
+    "164": {
+        "atm": "Ang taba mo"
+    },
+    "165": {
+        "atk": "Ang taba ko"
+    },
+    "166": {
+        "apm": "Ang payat mo"
+    },
+    "167": {
+        "apk": "Ang payat ko"
+    },
+    "168": {
+        "apmsf": "Ano pangalan mo sa facebook?"
+    },
+    "169": {
+        "aeam": "Anong email address mo?"
+    },
+    "170": {
+        "al": "Ang lamig"
+    },
+    "171": {
+        "blu": "Barya lang sa umaga"
+    },
+    "172": {
+        "bb": "Bababa ba?"
+    },
+    "173": {
+        "bs": "Balat sibuyas"
+    },
+    "174": {
+        "bmgy": "Bakit mo ginawa 'yan?"
+    },
+    "175": {
+        "bs": "Baka sakali"
+    },
+    "176": {
+        "bu": "Bukas ulit"
+    },
+    "177": {
+        "bpbs": "Buhay pa ba siya?"
+    },
+    "178": {
+        "babn": "Basta ako, bahala na"
+    },
+    "179": {
+        "bno": "Bilis ng oras"
+    },
+    "180": {
+        "bmbyl": "Binasa mo ba yung libro?"
+    },
+    "181": {
+        "bhmsa": "Bakit hindi mo sinabi agad?"
+    },
+    "182": {
+        "bm": "Baka mamaya"
+    },
+    "183": {
+        "badnp": "Bagyo ang dala ng panahon"
+    },
+    "184": {
+        "bgml": "Basta gawin mo lang"
+    },
+    "185": {
+        "bm": "Bilisan mo!"
+    },
+    "186": {
+        "bksyi": "Bilin ko sa iyo"
+    },
+    "187": {
+        "blmy": "Bihira lang mangyari 'yan"
+    },
+    "188": {
+        "balk": "Buo ang loob ko"
+    },
+    "189": {
+        "bnp": "Baka naman pwede"
+    },
+    "190": {
+        "bnl": "Bukas na lang"
+    },
+    "191": {
+        "bam": "Bilog ang mundo"
+    },
+    "192": {
+        "bkm": "Bumaba ka muna"
+    },
+    "193": {
+        "bps": "Bata pa siya"
+    },
+    "194": {
+        "bpkph": "Baka puwede ka pa humabol"
+    },
+    "195": {
+        "bkr": "Babalik ka rin"
+    },
+    "196": {
+        "batd": "Bawal ang tamad dito"
+    },
+    "197": {
+        "bmsa": "Baka mayroon silang alam"
+    },
+    "198": {
+        "bnat": "bukas na ang tindahan"
+    },
+    "199": {
+        "baakk": "Buo ang araw ko kapag kasama ka"
+    },
+    "200": {
+        "bknd": "Bumaba ka na dyan"
+    },
+    "201": {
+        "bnk": "Basta't nandito ka, okay na ako"
+    },
+    "202": {
+        "btks": "Bukod tangi ka sa puso ko"
+    },
+    "203": {
+        "bpan": "Buhay pa ang alaala niya"
+    },
+    "204": {
+        "bka": "Balik ka agad"
+    },
+    "205": {
+        "bmna": "Bisitahin mo naman ako"
+    },
+    "206": {
+        "bmbaml": "Binabasa mo ba ang mga libro?"
+    },
+    "207": {
+        "bkbg": "Bakit ka ba ganyan?"
+    },
+    "208": {
+        "bly": "Biro lang 'yon"
+    },
+    "209": {
+        "bbm": "Bilis-bilisan mo!"
+    },
+    "210": {
+        "bmatm": "Bilisan mo ang takbo mo"
+    },
+    "211": {
+        "bnu": "Buhos na ulan"
+    },
+    "212": {
+        "btn": "Bawal tumawid, nakamamatay"
+    },
+    "213": {
+        "bam": "Bilog ang mundo"
+    },
+    "214": {
+        "bnpk": "Bulong ng puso ko"
+    },
+    "215": {
+        "bata": "Bumilis ang takbo ng oras"
+    },
+    "216": {
+        "baap": "Bukas ang aking puso"
+    },
+    "217": {
+        "bsh": "Bulaklak sa hardin"
+    },
+    "218": {
+        "bhks": "Bakit hindi ka sumama?"
+    },
+    "219": {
+        "bti": "Bukod tanging ikaw"
+    },
+    "220": {
+        "bmhs": "Bilangin mo hanggang sampu"
+    },
+    "221": {
+        "bsaab": "Bisita sa aking bahay"
+    },
+    "222": {
+        "bnig": "Bihag ng iyong ganda"
+    },
+    "223": {
+        "bknd": "Bumaba ka na dyan"
+    },
+    "224": {
+        "bkn": "Bumangon ka na"
+    },
+    "225": {
+        "btk": "Bukod tangi ka"
+    },
+    "226": {
+        "bsih": "Bilanggo sa iyong halik"
+    },
+    "227": {
+        "bkr": "Babalik ka rin"
+    },
+    "228": {
+        "bl": "Biyaheng langit"
+    },
+    "229": {
+        "bapg": "Buhay ay parang gulong"
+    },
+    "230": {
+        "bksa": "Bumalik ka sa akin"
+    },
+    "231": {
+        "bam": "Bago ako mawala"
+    },
+    "232": {
+        "bpbi": "Bukas pa ba ito?"
+    },
+    "233": {
+        "bau": "Buhos ang ulan"
+    },
+    "234": {
+        "Bahmla": "Babalik ako, hinihintay mo lang ako"
+    },
+    "235": {
+        "butm": "Bukas ulit tayo magkikita"
+    },
+    "236": {
+        "bkn": "Bakit ka nagbago?"
+    },
+    "237": {
+        "baa": "Bumabalik ang alaala"
+    },
+    "238": {
+        "Bnlu": "Bukas na lang ulit"
+    },
+    "239": {
+        "Bnlu": "Bakit ka umiiyak?"
+    },
+    "240": {
+        "Bnk": "Basta't nandito ka"
+    },
+    "241": {
+        "Bpat": "Bukas pa ang tindahan"
+    },
+    "242": {
+        "Bam": "Bilog ang mundo"
+    },
+    "243": {
+        "Bmt": "Basta't magkasama tayo"
+    },
+    "244": {
+        "Bat": "Bawal ang tamad"
+    },
+    "245": {
+        "Baa": "Bumabalik ang alaala"
+    },
+    "246": {
+        "Bab": "Bilog ang buwan"
+    },
+    "247": {
+        "Bau": "Buhos ang ulan"
+    },
+    "248": {
+        "Bn": "Biyernes ngayon"
+    },
+    "249": {
+        "Btk": "Bukod tangi ka"
+    },
+    "250": {
+        "Baa": "Bumabalik ang alaala"
+    },
+    "251": {
+        "Btk": "Bukod tangi ka"
+    },
+    "252": {
+        "Bbm": "Bilis-bilisan mo!"
+    },
+    "253": {
+        "Bam": "Bilog ang mundo"
+    },
+    "254": {
+        "Bkn": "Bumalik ka na"
+    },
+    "255": {
+        "Btsg": "Bawal tumawid sa gitna"
+    },
+    "256": {
+        "Bti": "Bukod tanging ikaw"
+    },
+    "257": {
+        "Bsin": "Bilanggo sa iyong ngiti"
+    },
+    "258": {
+        "Bkd": "Babalik ka din"
+    },
+    "259": {
+        "Bkn": "Bumalik ka na"
+    },
+    "260": {
+        "Bl": "Biyaheng langit"
+    },
+    "261": {
+        "Bam": "Bilog ang mundo"
+    },
+    "262": {
+        "Baa": "Bumabalik ang alaala"
+    },
+    "263": {
+        "Bpbi": "Bukas pa ba ito?"
+    },
+    "264": {
+        "Bau": "Buhos ang ulan"
+    },
+    "265": {
+        "Bahmla": "Babalik ako, hinihintay mo lang ako"
+    },
+    "266": {
+        "Butm": "Bukas ulit tayo magkikita"
+    },
+    "267": {
+        "Bkn": "Bakit ka nagbago?"
+    },
+    "268": {
+        "Baa": "Bumabalik ang alaala"
+    },
+    "269": {
+        "Bnlu": "Bukas na lang ulit"
+    },
+    "270": {
+        "Bku": "Bakit ka umiiyak?"
+    },
+    "271": {
+        "Bua": "Bukas ulit ang opisina"
+    },
+    "272": {
+        "Bmt": "Basta't magkasama tayo, okay na"
+    },
+    "273": {
+        "Bamkk": "Bilog ang mundo kapag kasama kita"
+    },
+    "274": {
+        "Bbng": "Bilog ang buwan ngayong gabi"
+    },
+    "275": {
+        "Bmatm": "Bilisan mo ang takbo mo"
+    },
+    "276": {
+        "Bkna": "Bumalik ka na agad"
+    },
+    "277": {
+        "Btkapk": "Bukod tangi ka sa puso ko"
+    },
+    "278": {
+        "Bpbap": "Bukas pa ba ang palengke?"
+    },
+    "279": {
+        "Ban": "Buhos ang ulan ngayon"
+    },
+    "280": {
+        "Blana": "Biyaheng langit ang aking nararamdaman"
+    },
+    "281": {
+        "Btksa": "Bukod tangi ka sa akin"
+    },
+    "282": {
+        "Baam": "Bumabalik ang alaala mo"
+    },
+    "283": {
+        "Buap": "Bukas ulit ang pinto"
+    },
+    "284": {
+        "Bknad": "Bumalik ka na agad dito"
+    },
+    "285": {
+        "Buak": "Bukas ulit ang klase"
+    },
+    "286": {
+        "Bmtma": "Basta't magkasama tayo, masaya ako"
+    },
+    "287": {
+        "Bknd": "Bumalik ka na dito"
+    },
+    "288": {
+        "Bpbansi": "Buhay pa ba ang alaala niya sa iyo?"
+    },
+    "289": {
+        "Bkrshk": "Babalik ka rin sa akin, hinihintay kita"
+    },
+    "290": {
+        "bpbamt": "Bukas pa ba ang mga tindahan?"
+    },
+    "291": {
+        "bkrsahk": "Babalik ka rin sa akin, hinihintay kita"
+    },
+    "292": {
+        "Bknadsb": "Bumalik ka na agad dito sa bahay"
+    },
+    "293": {
+        "Bmtmna": "Basta't magkasama tayo, masaya na ako"
+    },
+    "294": {
+        "Bmapm": "Bilisan mo ang paglakad mo"
+    },
+    "295": {
+        "Bsl": "Bukod sa lahat"
+    },
+    "296": {
+        "Bknd": "Bumangon ka na dyan"
+    },
+    "297": {
+        "Bnkn": "Bihag ng kanyang ngiti"
+    },
+    "298": {
+        "Bgm": "Bawat galaw mo"
+    },
+    "299": {
+        "Bne": "Buhos ng emosyon"
+    },
+    "300": {
+        "Bpim": "Bago pa ito maulit"
+    },
+    "301": {
+        "Babn": "Bukas ay bago na"
+    },
+    "302": {
+        "Batno": "Bumilis ang takbo ng oras"
+    },
+    "303": {
+        "Bab": "Buhay ay biyaya"
+    },
+    "304": {
+        "Bsam": "Bawat sandali ay mahalaga"
+    },
+    "305": {
+        "Bs": "Bisig ng kasamaan"
+    },
+    "306": {
+        "Bs": "Baka sakaling"
+    },
+    "307": {
+        "Bab": "Buhay ay biyenan"
+    },
+    "308": {
+        "Bit": "Bago ito matapos"
+    },
+    "309": {
+        "Bnp": "Bilis ng panahon"
+    },
+    "310": {
+        "Bnk": "Buhay ng kabataan"
+    },
+    "311": {
+        "Bab": "Buhay ay biyaya"
+    },
+    "312": {
+        "Bnp": "Bulong ng puso"
+    },
+    "313": {
+        "Bnkmp": "Bilanggo ng kanyang mga pangarap"
+    },
+    "314": {
+        "Btskmk": "Bukod tangi sa kanyang mga kaibigan"
+    },
+    "315": {
+        "bsp": "Babala sa panganib"
+    },
+    "316": {
+        "bhm": "Bawat halik mo"
+    },
+    "317": {
+        "Bnit": "Buhay ng isang tao"
+    },
+    "318": {
+        "Bmgy": "Bakit mo ginagawa 'yan?"
+    },
+    "319": {
+        "Bnip": "Bunga ng iyong pagsisikap"
+    },
+    "320": {
+        "Bsp": "Bukod sa pamilya"
+    },
+    "321": {
+        "Bpbae": "Bukas pa ba ang eskwela?"
+    },
+    "322": {
+        "Bmaa": "Bago magwakas ang araw"
+    },
+    "323": {
+        "Bata": "Bumilis ang takbo ng oras"
+    },
+    "324": {
+        "Bab": "Buhay ay biyaya"
+    },
+    "325": {
+        "Bsam": "Bawat segundo ay mahalaga"
+    },
+    "326": {
+        "Bnl": "Buhos ng luha"
+    },
+    "327": {
+        "Bsp": "Babala sa panganib"
+    },
+    "328": {
+        "Bnp": "Bunga ng pagsisikap"
+    },
+    "329": {
+        "Bab": "Buhay ay biyaya"
+    },
+    "330": {
+        "Bskmp": "Bilanggo sa kanyang mga pangarap"
+    },
+    "331": {
+        "Btskp": "Bukod tangi sa kanyang pamilya"
+    },
+    "332": {
+        "Bmtmna": "Basta't magkasama tayo, masaya na ako"
+    },
+    "333": {
+        "Bap": "Bilog ang paligid"
+    },
+    "334": {
+        "Bkn": "Bakit ka nagbago?"
+    },
+    "335": {
+        "Baa": "Bumabalik ang alaala"
+    },
+    "336": {
+        "Bnlu": "Bukas na lang ulit"
+    },
+    "337": {
+        "Bku": "Bakit ka umiiyak?"
+    },
+    "338": {
+        "Bknaad": "Bumalik ka na agad dito"
+    },
+    "339": {
+        "Bmtmna": "Basta't magkasama tayo, masaya na ako"
+    },
+    "340": {
+        "Bmapm": "Bilisan mo ang pagtakbo mo"
+    },
+    "341": {
+        "Bkb": "Bababa ka ba?"
+    },
+    "342": {
+        "Baim": "Bumilis ang ikot ng mundo"
+    },
+    "343": {
+        "Bab": "Bilog ang buhay"
+    },
+    "344": {
+        "Bnm": "Bawat ngiti mo"
+    },
+    "345": {
+        "Bab": "Buhay ay biyaya"
+    },
+    "346": {
+        "Bnip": "Bunga ng iyong pagmamahal"
+    },
+    "347": {
+        "Btspk": "Bukod tangi sa puso ko"
+    },
+    "348": {
+        "Baam": "Bumabalik ang alaala mo"
+    },
+    "349": {
+        "Buao": "Bukas ulit ang opisina"
+    },
+    "350": {
+        "caal": "caloocan ang aking lungsod"
+    },
+    "351": {
+        "ckp": "Cavite kami patungo"
+    },
+    "352": {
+        "dkng": "Dapat kumain ng gulay"
+    },
+    "353": {
+        "dmnm": "Dapat matulog ng maaga"
+    },
+    "354": {
+        "dmanm": "Dapat mag-aral ng mabuti"
+    },
+    "355": {
+        "dnlst": "Dine na lang sa tabi"
+    },
+    "356": {
+        "dtm": "Dito tayo mamasyal"
+    },
+    "357": {
+        "dtt": "Diyan tayo tumambay"
+    },
+    "358": {
+        "dnltm": "Doon na lang tayo maghintay"
+    },
+    "359": {
+        "dmbahn": "Dinig mo ba ang hiyawan nila?"
+    },
+    "360": {
+        "dap": "Disyembre ang pasko"
+    },
+    "361": {
+        "dms": "Disiplinahin mo siya"
+    },
+    "362": {
+        "dpi": "Daanan po ito!"
+    },
+    "363": {
+        "dmnlnd": "Dagdagan mo na lang ng dalawa"
+    },
+    "364": {
+        "dapnm": "Dahas ang pinaiiral ng militar"
+    },
+    "365": {
+        "dskkan": "Dahil sa kaniya kaya ako nagpursigi"
+    },
+    "366": {
+        "daku": "Daing ang kanilang ulam"
+    },
+    "367": {
+        "dsa": "Dakila siyang ama"
+    },
+    "368": {
+        "dsi": "Dakila siyang ina"
+    },
+    "369": {
+        "dmbainp": "Dama mo ba ang init ng panahon?"
+    },
+    "370": {
+        "dnan": "Damdamin niya ay nasasaktan"
+    },
+    "371": {
+        "dmbi": "Damit mo ba ito?"
+    },
+    "372": {
+        "dmn": "Damot mo naman"
+    },
+    "373": {
+        "dkpyn": "Dati ko pa 'yan nakita"
+    },
+    "374": {
+        "dmn": "Daya mo naman"
+    },
+    "375": {
+        "dmsg": "Delikadong maglakad sa gabi"
+    },
+    "376": {
+        "dnsnp": "Dalhan natin siya ng pasalubong"
+    },
+    "377": {
+        "dkbn": "Diyan ka ba nag-aaral?"
+    },
+    "378": {
+        "dbnss": "Dapat ba natin siyang sundin?"
+    },
+    "379": {
+        "dsn": "Di siya nakikinig!"
+    },
+    "380": {
+        "dmbsn": "Di mo ba siya naintindihan?"
+    },
+    "381": {
+        "dmbsn": "Di mo ba siya narinig?"
+    },
+    "382": {
+        "dhn": "Dapit-hapon na"
+    },
+    "383": {
+        "dknlstk": "Dito ka na lang sa tabi ko"
+    },
+    "384": {
+        "eo": "Eksaktong oras"
+    },
+    "385": {
+        "e": "Eksklusibo"
+    },
+    "386": {
+        "et": "Edukadong Tao"
+    },
+    "387": {
+        "ent": "Edad ng Tao"
+    },
+    "388": {
+        "e": "Edad"
+    },
+    "389": {
+        "ek": "Eksena ka?"
+    },
+    "390": {
+        "eo": "Eto oh"
+    },
+    "391": {
+        "eby": "Eto ba yun?"
+    },
+    "392": {
+        "en": "Enero ng"
+    },
+    "393": {
+        "ens": "Eto nalang siguro"
+    },
+    "394": {
+        "en": "Eto nalang"
+    },
+    "395": {
+        "eent": "Etong-Eto na talaga"
+    },
+    "396": {
+        "elaesk": "Eksklusibo lang ata eto sa kanila"
+    },
+    "397": {
+        "ee": "Eksaktong edad"
+    },
+    "398": {
+        "es": "Eksperto sa"
+    },
+    "399": {
+        "es": "Epektibo sa"
+    },
+    "400": {
+        "e": "Epektibo"
+    },
+    "401": {
+        "esab": "Epektibo sa anumang bagay"
+    },
+    "402": {
+        "ei": "Epektibo ito"
+    },
+    "403": {
+        "esg": "Eksperto sa gamot"
+    },
+    "404": {
+        "esm": "Eksperto sa makina"
+    },
+    "405": {
+        "enbi": "Eksakto na ba ito?"
+    },
+    "406": {
+        "e": "Eksakto"
+    },
+    "407": {
+        "el": "Eksaktong lasa"
+    },
+    "408": {
+        "ekttn": "Emosyonal ka talagang tao, no"
+    },
+    "409": {
+        "ektn": "Emosyonal ka talaga, no?"
+    },
+    "410": {
+        "ekl": "Emosyonal ka lang"
+    },
+    "411": {
+        "ek": "Emosyonal ka"
+    },
+    "412": {
+        "ett": "Emosyonal talaga to"
+    },
+    "413": {
+        "e": "Emosyonal"
+    },
+    "414": {
+        "et": "Eksperimento tayo"
+    },
+    "415": {
+        "e": "Eksperimento"
+    },
+    "416": {
+        "en": "Empleyado ng gobyerno"
+    },
+    "417": {
+        "es": "Empleyado sa opisina"
+    },
+    "418": {
+        "em": "Ekspresyon mo"
+    },
+    "419": {
+        "enma": "Edukasyon ng mag aaral"
+    },
+    "420": {
+        "esk": "Ebidensya sa krimen"
+    },
+    "421": {
+        "enim": "Emosyon ng iyong mukha"
+    },
+    "422": {
+        "ent": "Espiritu ng tao"
+    },
+    "423": {
+        "enab": "Ekonomiya ng ating bansa"
+    },
+    "424": {
+        "en": "Estudyante ng"
+    },
+    "425": {
+        "ekkn": "Ex, kamusta ka na?"
+    },
+    "426": {
+        "eppb": "Ex, pwede pa ba?"
+    },
+    "427": {
+        "et": "Ekspertong tao"
+    },
+    "428": {
+        "enbi": "Eto na ba iyun?"
+    },
+    "429": {
+        "enb": "Eto na ba?"
+    },
+    "430": {
+        "elb": "Eto lang ba?"
+    },
+    "431": {
+        "es": "Eto siguro"
+    },
+    "432": {
+        "eys": "Eto yun siguro"
+    },
+    "433": {
+        "eb": "El Bimbo"
+    },
+    "434": {
+        "enl": "Espasyo ng lote"
+    },
+    "435": {
+        "en": "Epekto nito"
+    },
+    "436": {
+        "enp": "Epekto ng panahon"
+    },
+    "437": {
+        "est": "Epekto sa tao"
+    },
+    "438": {
+        "enmt": "Ekspresyon ng mga"
+    },
+    "439": {
+        "eamnt": "Empanada ang masarap na tinapay"
+    },
+    "440": {
+        "e": "Ebanghelyo"
+    },
+    "441": {
+        "e": "Editoryal"
+    },
+    "442": {
+        "e": "Ehemplo"
+    },
+    "443": {
+        "e": "Ekonomista"
+    },
+    "444": {
+        "eka": "Eksaminador ka ah"
+    },
+    "445": {
+        "es": "Ekskomunikado si"
+    },
+    "446": {
+        "en": "Estranghero ng"
+    },
+    "447": {
+        "enl": "Ektarya ng lupa"
+    },
+    "448": {
+        "e": "Elastiko"
+    },
+    "449": {
+        "eakb": "Elementarya ang kanyang baitang"
+    },
+    "450": {
+        "en": "Embahador ng en"
+    },
+    "451": {
+        "en": "Embalsamo ng yumao"
+    },
+    "452": {
+        "e": "Embudo"
+    },
+    "453": {
+        "e": "Embutido"
+    },
+    "454": {
+        "egs": "Emigrante galing sa"
+    },
+    "455": {
+        "en": "Emigrante sa pilipinas"
+    },
+    "456": {
+        "esib": "Emigrante sa ibang bansa"
+    },
+    "457": {
+        "enmg": "Empake ng mga gamit"
+    },
+    "458": {
+        "en": "Emisaryo ng"
+    },
+    "459": {
+        "en": "Enerhiya ng"
+    },
+    "460": {
+        "egs": "Enerhiya galing sa"
+    },
+    "461": {
+        "egspnk": "Enerhiya galing sa planta ng kuryente"
+    },
+    "462": {
+        "e": "Engkantada"
+    },
+    "463": {
+        "es": "Enkanto sa"
+    },
+    "464": {
+        "esmbk": "Enkwentro sa may bandang kanto"
+    },
+    "465": {
+        "esmk": "Enkwentro sa mga kapulisan"
+    },
+    "466": {
+        "ed": "Enkwentro dito"
+    },
+    "467": {
+        "emsb": "Ensaymada sa may bakery"
+    },
+    "468": {
+        "en": "Epidemya"
+    },
+    "469": {
+        "eski": "Epileptik siya kaya iwas"
+    },
+    "470": {
+        "en": "Epiko ng"
+    },
+    "471": {
+        "ebt": "Eroplano bilang transportasyon"
+    },
+    "472": {
+        "ebsm": "Eskinita banda sa may"
+    },
+    "473": {
+        "e": "Eskinita"
+    },
+    "474": {
+        "em": "Eskinitang maaliwalas"
+    },
+    "475": {
+        "enme": "Eskuwela ng mga estudyandte"
+    },
+    "476": {
+        "en": "Espada ng en"
+    },
+    "477": {
+        "en": "Espiritista ng"
+    },
+    "478": {
+        "en": "Espiya ng"
+    },
+    "479": {
+        "eu": "Estados Unidos"
+    },
+    "480": {
+        "ent": "Estasyon ng Tren"
+    },
+    "481": {
+        "enmj": "Estasyon ng mga jeepney"
+    },
+    "482": {
+        "enmb": "Estatwa ng mga bayani"
+    },
+    "483": {
+        "en": "Eto nalang"
+    },
+    "484": {
+        "e": "Europa"
+    },
+    "485": {
+        "ek": "Ewan ko"
+    },
+    "486": {
+        "ela": "Ewan lang a"
+    },
+    "487": {
+        "ekdks": "Ewan ko, di ko sigurado"
+    },
+    "488": {
+        "edknta": "Ewan, di ko na talaga alam"
+    },
+    "489": {
+        "eotm": "Eto oh, tignan mo"
+    },
+    "490": {
+        "ennsk": "Eto na nga sinasabi ko"
+    },
+    "491": {
+        "enty": "Eto na talaga yun"
+    },
+    "492": {
+        "eint": "Eto, isa nalang talaga"
+    },
+    "493": {
+        "etn": "Eto, tapos na"
+    },
+    "494": {
+        "ent": "Eto na talaga"
+    },
+    "495": {
+        "ei": "Ekis ito"
+    },
+    "496": {
+        "en": "Ekis na"
+    },
+    "497": {
+        "ek": "Ekis ka"
+    },
+    "498": {
+        "es": "Ekis sila"
+    },
+    "499": {
+        "ennt": "Eto na naman tayo"
+    },
+    "500": {
+        "ennut": "Eto na naman ulit tayo"
+    },
+    "501": {
+        "ennu": "Eto na naman ulit"
+    },
+    "502": {
+        "eyn": "Eto yun no?"
+    },
+    "503": {
+        "fk": "Filipino ka?"
+    },
+    "504": {
+        "fkb": "Filipino ka ba?"
+    },
+    "505": {
+        "fa": "Filipino ako"
+    },
+    "506": {
+        "falk:": "Filipino ang lahi ko"
+    },
+    "507": {
+        "fymkk": "Filipino yung mga kaibigan ko"
+    },
+    "508": {
+        "fammk": "Filipino ang magulang ko"
+    },
+    "509": {
+        "ffagk": "Filipino food ang gusto ko"
+    },
+    "510": {
+        "fmapk": "Filipino music ang pinakikingan ko"
+    },
+    "511": {
+        "fbaln": "Fiyesta ba lugar ninyo?"
+    },
+    "512": {
+        "fbnsi": "Fiyesta ba ngayon sa inyo?"
+    },
+    "513": {
+        "gamnp": "gastos and madalas na pagbili"
+    },
+    "514": {
+        "gaphmss": "gahaman ang pagkahumaling mo sa salapi"
+    },
+    "515": {
+        "gnaonip": "gabi na ang oras ng iyong pag uwi"
+    },
+    "516": {
+        "gnmaknia": "gabay ng magulang ang kailangan ng isang anak"
+    },
+    "517": {
+        "gkait": "Gaano kasaya ang iyong tagumpay?"
+    },
+    "518": {
+        "gmnaa": "gawin mo na ang aralin"
+    },
+    "519": {
+        "gnpksia": "gaan ng pakiramdam ko sa iyong aruga"
+    },
+    "520": {
+        "gaksk": "gantimpala ang kapalit sa kabutihan"
+    },
+    "521": {
+        "gkain": "gusto ko ang iyong nilikha"
+    },
+    "522": {
+        "gakpsks": "gasolina ang kailangan para sa kanyang sasakyan"
+    },
+    "523": {
+        "hksiamr": "handog ko sa iyo ang munting regalo"
+    },
+    "524": {
+        "hmbabnt": "halakhak mo ba ay bunga ng tagumpay?"
+    },
+    "525": {
+        "hntamp": "hakbang ng tagumpay ang mga pagsubok"
+    },
+    "526": {
+        "hmnpamb": "hainan mo ng pagkain ang mga bisita"
+    },
+    "527": {
+        "hamgnp": "hatiin ang mga gawain ng patas"
+    },
+    "528": {
+        "haip": "habambuhay ang iyong pagmamahal"
+    },
+    "529": {
+        "hamgnn": "hadalang ang mga gamit na nakaharang"
+    },
+    "530": {
+        "hnamk": "hakutin na ang mga kagamitan"
+    },
+    "531": {
+        "hadnbsb": "hagupit ang dala ng bagyo sa bansa"
+    },
+    "532": {
+        "hmnm": "hawakan mo ng mabuti "
+    },
+    "533": {
+        "inap": "isagawa ng ang proyekto"
+    },
+    "534": {
+        "iiamlsb": "isa isip ang mga leksyon sa buhay"
+    },
+    "535": {
+        "iabnp": "itaas ang bandera ng pinas"
+    },
+    "536": {
+        "imag": "itulak mo ang gamit"
+    },
+    "537": {
+        "inab": "itigil na ang bisyo"
+    },
+    "538": {
+        "iap": "isakatuparan ang pangako"
+    },
+    "539": {
+        "iamit": "iligtas ang mga inosenteng tao"
+    },
+    "540": {
+        "iapnia": "ibigay ang pangangailangan ng iyong alaga"
+    },
+    "541": {
+        "imain": "ituloy mo ang iyong naumpisahan"
+    },
+    "542": {
+        "ikaip": "inaasahan ko ang iyong pangako"
+    },
+    "543": {
+        "jalnmb": "jackstone ang laro ng mga bata"
+    },
+    "544": {
+        "jasnksp": "jollibee ay sikat na kainan sa pinas"
+    },
+    "545": {
+        "kaplnmp": "kantahan ang paboritong libangan ng mga pinoy"
+    },
+    "546": {
+        "kniksb": "kalakasan ng iyong karera sa buhay"
+    },
+    "547": {
+        "kadki": "kailanman ay di kita iiwan"
+    },
+    "548": {
+        "kaisp": "kabutihan ang ipairal sa puso"
+    },
+    "549": {
+        "kansp": "kaalaman ay nakukuha sa pag aaral"
+    },
+    "550": {
+        "kapnms": "kagitingan ang pinakita ng mga sundalo"
+    },
+    "551": {
+        "kakp": "kalmado ang kanyang pagsasalita"
+    },
+    "552": {
+        "kamkm": "kahirapan ay malalampasan kung magsusumikap"
+    },
+    "553": {
+        "kapnb": "kabataan ang pag asa ng bayan"
+    },
+    "554": {
+        "lman": "Larawan mo ay napakaganda"
+    },
+    "555": {
+        "lapmn": "Labahan ay patuyuin mo"
+    },
+    "556": {
+        "lmalmshnb": "Lakasan mo ang loob mo sa hamon ng buhay"
+    },
+    "557": {
+        "lmail": "Lampasan mo ang iyong limitasyon"
+    },
+    "558": {
+        "lnam": "Lakbayin natin ang mundo"
+    },
+    "559": {
+        "lasspnk": "Libangin ang sarili sa paglalaro ng kompyuter"
+    },
+    "560": {
+        "lnpe": "lakarin natin papuntang eskwela"
+    },
+    "561": {
+        "lmaik": "lambingin mo ang iyong kasintahan"
+    },
+    "562": {
+        "lmap": "liwanagin mo ang paliwanag"
+    },
+    "563": {
+        "lnamk": "Luma na ang mga kagamitan"
+    },
+    "564": {
+        "maip": "maalindog ang iyong postura"
+    },
+    "565": {
+        "madse": "masikip ang daan sa eskinita"
+    },
+    "566": {
+        "maii": "maganda ang iyong itsura"
+    },
+    "567": {
+        "mbaia": "masaya ba ang iyong araw?"
+    },
+    "568": {
+        "mbak": "malalim ba ang karagatan"
+    },
+    "569": {
+        "mbaip": "magaling ba ang inyong pinuno"
+    },
+    "570": {
+        "mbabnip": "matarik ba ang bundok na inyong pinuntahan"
+    },
+    "571": {
+        "mbalnp": "matamis ba ang lasa ng panghimagas"
+    },
+    "572": {
+        "mbait": "mahimbing ba ang iyong tulog?"
+    },
+    "573": {
+        "mnbaik": "malapit na ba ang iyong kaarawan?"
+    },
+    "574": {
+        "maanb": "mahalimuyak ang amoy ng bulaklak"
+    },
+    "575": {
+        "nas": "Nagpapasalamat ako sayo"
+    },
+    "576": {
+        "nanp": "Nanghihingi Ako Ng paumanhin"
+    },
+    "577": {
+        "nkikshk": "Nais Kong imbitahan ka sa hapag kainan"
+    },
+    "578": {
+        "nmbama": "Natutunan mo ba ang aralin?"
+    },
+    "579": {
+        "naib": "Nakakatawa Ang iyong biro"
+    },
+    "580": {
+        "nmban": "Nasaksihan mo ba ang nangyari?"
+    },
+    "581": {
+        "nkap": "nabuksan ko ang pinto"
+    },
+    "582": {
+        "napspni": "nalaan ang pondo sa pagpapagawa ng imprastraktura"
+    },
+    "583": {
+        "nup": "Noong unang panahon"
+    },
+    "584": {
+        "npmmnk": "Noon pa man makaibigan na kami"
+    },
+    "585": {
+        "on": "Oo naman"
+    },
+    "586": {
+        "okl": "Opinyon ko lang"
+    },
+    "587": {
+        "os": "Oo, sige"
+    },
+    "588": {
+        "on": "Oras na"
+    },
+    "589": {
+        "ot": "Oo, tama"
+    },
+    "590": {
+        "ogk": "Oo, gusto ko"
+    },
+    "591": {
+        "ol": "Okay lang"
+    },
+    "592": {
+        "on": "Oo nga"
+    },
+    "593": {
+        "onh": "Oras ng hapunan"
+    },
+    "594": {
+        "ola": "Okay lang ako"
+    },
+    "595": {
+        "om": "Oo, maganda"
+    },
+    "596": {
+        "oni": "Oportunidad na ito"
+    },
+    "597": {
+        "om": "Oo, malamig"
+    },
+    "598": {
+        "ona": "Opo, nandito ako"
+    },
+    "599": {
+        "ognt": "Oo, gumawa na tayo"
+    },
+    "600": {
+        "pksl": "panalo kami sa laro"
+    },
+    "601": {
+        "pnsank": "paumanhin sa aking nagawang kasalanan"
+    },
+    "602": {
+        "pnadm": "pagmamahal nya ay di matatawaran"
+    },
+    "603": {
+        "pmnm": "pagkakataon mo na magbago"
+    },
+    "604": {
+        "puhknu": "Paki-usap, huwag ka munang umalis"
+    },
+    "605": {
+        "pmma": "Pagbigyan mo muna ako"
+    },
+    "606": {
+        "pbahnp": "Pwede ba akong humingi ng payo"
+    },
+    "607": {
+        "ptmnad": "Paki-tulungan mo naman ako dito"
+    },
+    "608": {
+        "pmln": "Paminsan-minsan lang naman"
+    },
+    "609": {
+        "pknsip": "Paano ka nakatulong sa iyong pamilya?"
+    },
+    "610": {
+        "qapksm": "Quiapo ang paborito ko sa maynila"
+    },
+    "611": {
+        "rntaak": "retaso ng tela ang aking kailangan"
+    },
+    "612": {
+        "rkskaspp": "regalo ko sa kanila ay sa pasko pa"
+    },
+    "613": {
+        "rbaip": "respeto ba ang iyong pinapaktia?"
+    },
+    "614": {
+        "rgndaib": "resetang gamot ng doctor ang iyong bilhin"
+    },
+    "615": {
+        "rni": "responsibilidad niya ito"
+    },
+    "616": {
+        "rinek": "reaksyon mo ay nakaka aliw"
+    },
+    "617": {
+        "rasnkn": "rayuma ang sakit na kanyang nararamdaman"
+    },
+    "618": {
+        "rinek": "resulta iyon ng exam ko"
+    },
+    "619": {
+        "rnbaksp": "raketa ng badminton ang kailangan sa paglalaro"
+    },
+    "620": {
+        "rnmbahm": "responde ng mga bumbero ay hindi matatawaran"
+    },
+    "621": {
+        "rapkb": "rosas ang paborito kong bulaklak"
+    },
+    "622": {
+        "rms": "respstuhin mo sila"
+    },
+    "623": {
+        "snmabt": "sabulungin ng masaya ang bagong taon"
+    },
+    "624": {
+        "sasmsnnb": "saludo ako sa mga sundalong nagbuwis ng buhay"
+    },
+    "625": {
+        "sskam": "singil sa kuryente ay mataas"
+    },
+    "626": {
+        "saipso": "sakto ang iyong pagdating sa oras"
+    },
+    "627": {
+        "sprnisa": "sabagay para rin namin ito sa akin"
+    },
+    "628": {
+        "saat": "sukdulan ang aking tuwa"
+    },
+    "629": {
+        "snaani": "sikat ng araw ay napaka init"
+    },
+    "630": {
+        "sskaks": "sampal sa katotohan ang kanyang salita"
+    },
+    "631": {
+        "sbspamb": "sagana ba sa pagkain ang mga bata?"
+    },
+    "632": {
+        "sladnip": "segundo lang ang diperensya ng inyong pagdating"
+    },
+    "633": {
+        "tnap": "tapos na ang palabas"
+    },
+    "634": {
+        "taib": "tinapay ang inyong binebenta"
+    },
+    "635": {
+        "tnkamnl": "tatsulok na kanta ay may malalim na lirisismo"
+    },
+    "636": {
+        "tnammnp": "tenga nya ay may matalas na pandinig"
+    },
+    "637": {
+        "tadl": "tukso ay dapat layuan"
+    },
+    "638": {
+        "tmmap": "takasan mo muna ang problema"
+    },
+    "639": {
+        "tnmam": "taba ng mga alagang manok"
+    },
+    "640": {
+        "ttsu": "tabi tayo sa upuan"
+    },
+    "641": {
+        "tbask": "Tama ba ang sagot ko?"
+    },
+    "642": {
+        "tbaonp": "Tanghali ba ang oras ng pagpupulong"
+    },
+    "643": {
+        "tmnmal": "Tingnan mo ng maayos ang libro"
+    },
+    "644": {
+        "tadnphmsk": "Trapiko ang dahilan ng pagiging huli mo sa klase?"
+    },
+    "645": {
+        "uknh": "ubanin ka na ha"
+    },
+    "646": {
+        "unbm": "ubanin na buhok mo"
+    },
+    "647": {
+        "ubi": "ubas ba iyan?"
+    },
+    "648": {
+        "uapkp": "ubas ang paborito kong prutas"
+    },
+    "649": {
+        "uapnp": "ubas ang pinakamasarap na prutas"
+    },
+    "650": {
+        "ukngi": "ubligado ka na gawin iyan"
+    },
+    "651": {
+        "uknti": "ubligado ka na tapusin iyan"
+    },
+    "652": {
+        "ukngi": "ubligasiyon ko na gawin iyan"
+    },
+    "653": {
+        "uknti": "ubligasiyon ko na tapusin ito"
+    },
+    "654": {
+        "uknn": "ubo ka na naman?"
+    },
+    "655": {
+        "uns": "ubod ng sama"
+    },
+    "656": {
+        "un": "ubos na"
+    },
+    "657": {
+        "ununia": "ubos na ubos na ito ah"
+    },
+    "658": {
+        "unut": "ubos na ubos talaga"
+    },
+    "659": {
+        "ulkr": "ubos lakas ko rito"
+    },
+    "660": {
+        "ulmr": "ubos lakas mo riyan"
+    },
+    "661": {
+        "ulmsl": "ubos lakas mo sa laro"
+    },
+    "662": {
+        "ukt": "ubuhin ka talaga"
+    },
+    "663": {
+        "ukn": "ubuhin ka naman"
+    },
+    "664": {
+        "unns": "ubuhin na naman siya"
+    },
+    "665": {
+        "unpi": "ubusan ng pagkain ito"
+    },
+    "666": {
+        "umih": "ubusin mo iyan ha"
+    },
+    "667": {
+        "uni": "ubusin niyo iyan"
+    },
+    "668": {
+        "upn": "udlot pa nga"
+    },
+    "669": {
+        "umgpm": "ugain mo nga para mahulog"
+    },
+    "670": {
+        "umni": "ugain mo nga iyon"
+    },
+    "671": {
+        "umdm": "ugali mo di na maganda"
+    },
+    "672": {
+        "umnmnkbk": "ugaliin mo na maghugas ng kamay bago kumain"
+    },
+    "673": {
+        "umnm": "ugaliin mo na manalangin"
+    },
+    "674": {
+        "umnmksk": "ugaliin mo na malinis ka sa katawan"
+    },
+    "675": {
+        "uksu": "ugat ko sa ulo"
+    },
+    "676": {
+        "unh": "ugat ng halaman"
+    },
+    "677": {
+        "unan": "ugat ng away nila"
+    },
+    "678": {
+        "uykm": "ugatin yung kamay mo"
+    },
+    "679": {
+        "uns": "ugong ng sasakyan"
+    },
+    "680": {
+        "unua": "uhaw na uhaw ako"
+    },
+    "681": {
+        "ununna": "uhaw na uhaw na naman ako"
+    },
+    "682": {
+        "unusl": "uhaw na uhaw sa laro"
+    },
+    "683": {
+        "ukt": "uhawin ka talaga"
+    },
+    "684": {
+        "unn": "ukasyon niyo ngayon"
+    },
+    "685": {
+        "unb": "ukasyon natin bukas"
+    },
+    "686": {
+        "umni": "ukitin mo nga ito"
+    },
+    "687": {
+        "umi": "ukitin mo iyon"
+    },
+    "688": {
+        "upki": "ukulele paborito kong instrumento"
+    },
+    "689": {
+        "unn": "ulam niyo ngayon"
+    },
+    "690": {
+        "unm": "ulam natin mamaya"
+    },
+    "691": {
+        "unib": "ulamin natin ito bukas"
+    },
+    "692": {
+        "unn": "uulan na naman"
+    },
+    "693": {
+        "upt": "uulanin pa tayo"
+    },
+    "694": {
+        "uknnmnm": "ulianin ka na nakalimutan mo na naman"
+    },
+    "695": {
+        "uuksi": "ulit-ulitin ko sa iyo"
+    },
+    "696": {
+        "umu": "ulitin mo ulit"
+    },
+    "697": {
+        "umni": "ulitin mo nga iyon"
+    },
+    "698": {
+        "umyi": "ulo mo yata iyon"
+    },
+    "699": {
+        "umipkk": "ulunan mo ito para komportable ka"
+    },
+    "700": {
+        "un": "ulunan niya"
+    },
+    "701": {
+        "uys": "umaalog yung sasakyan"
+    },
+    "702": {
+        "unni": "umaalog na naman ito"
+    },
+    "703": {
+        "upna": "umaasa pa naman ako"
+    },
+    "704": {
+        "uanmk": "umaasa ako na makakapunta ka"
+    },
+    "705": {
+        "uanmk": "umaasa ako na makita kita"
+    },
+    "706": {
+        "unsn": "umabante na sasakyan namin"
+    },
+    "707": {
+        "unkr": "umabot na kami rito"
+    },
+    "708": {
+        "unkr": "umabot na kami roon"
+    },
+    "709": {
+        "ukn": "umabsent kami ngayon"
+    },
+    "710": {
+        "uan": "umabsent ako ngayon"
+    },
+    "711": {
+        "unn": "umaga na naman"
+    },
+    "712": {
+        "unta": "umaga na tayo aalis"
+    },
+    "713": {
+        "uu": "umaga ulit"
+    },
+    "714": {
+        "unnt": "uumagahin na naman tayo"
+    },
+    "715": {
+        "ussa": "umakap siya sa akin"
+    },
+    "716": {
+        "uask": "umakap ako sa kanya"
+    },
+    "717": {
+        "uask": "umakbay ako sa kanya"
+    },
+    "718": {
+        "ussa": "umakbay siya sa akin"
+    },
+    "719": {
+        "uya": "umalingasaw yung amoy"
+    },
+    "720": {
+        "unmyd": "umalon ng malakas yung dagat"
+    },
+    "721": {
+        "uyt": "umalon yung tubig"
+    },
+    "722": {
+        "uknsa": "umamin ka na sa akin"
+    },
+    "723": {
+        "uknsk": "umamin ka na sa kanya"
+    },
+    "724": {
+        "unn": "umaamoy na naman"
+    },
+    "725": {
+        "uyb": "umaamoy yung basura"
+    },
+    "726": {
+        "unasn": "umandar na ang sinasakyan namin"
+    },
+    "727": {
+        "unnakm": "umaandar na naman ang kakulitan mo"
+    },
+    "728": {
+        "unat": "umapaw na ang tubig"
+    },
+    "729": {
+        "unu": "umaraw na ulit"
+    },
+    "730": {
+        "upna": "umasa pa naman ako"
+    },
+    "731": {
+        "uys": "umilaw yung sasakyan"
+    },
+    "732": {
+        "uy": "umilaw yun"
+    },
+    "733": {
+        "uyl": "umimpis yung lobo"
+    },
+    "734": {
+        "uph": "umimpis pagtapos hanginan"
+    },
+    "735": {
+        "umtsl": "umingay mga tao sa labas"
+    },
+    "736": {
+        "umesp": "umingay mga estudyante sa paaralan"
+    },
+    "737": {
+        "uknt": "uminom ka ng tubig"
+    },
+    "738": {
+        "uknm": "uminom ka ng matamis"
+    },
+    "739": {
+        "uknn": "umiiyak ka na naman"
+    },
+    "740": {
+        "uku": "umiyak ka ulit"
+    },
+    "741": {
+        "unn": "umuubo na naman"
+    },
+    "742": {
+        "ua": "umubo ako"
+    },
+    "743": {
+        "uysn": "umuga yung sinasakyan namin"
+    },
+    "744": {
+        "ukn": "umurong ka na"
+    },
+    "745": {
+        "unn": "umusok na naman"
+    },
+    "746": {
+        "ub": "umusok bigla"
+    },
+    "747": {
+        "unnk": "una na naman kami"
+    },
+    "748": {
+        "unk": "una na kayo"
+    },
+    "749": {
+        "ummi": "unahin mo muna ito"
+    },
+    "750": {
+        "unmi": "unahin ninyo muna iyon"
+    },
+    "751": {
+        "unn": "uwian na naman"
+    },
+    "752": {
+        "unu": "uwian na ulit"
+    },
+    "753": {
+        "uki": "utol ko iyon"
+    },
+    "754": {
+        "uks": "utol ko siya"
+    },
+    "755": {
+        "uknr": "urong ka nga roon"
+    },
+    "756": {
+        "uku": "urong ka unti"
+    },
+    "757": {
+        "ukie": "upuan ko ito e"
+    },
+    "758": {
+        "wnip": "Wala na itong pag-asa"
+    },
+    "759": {
+        "wak": "Wasak ang kagamitan"
+    },
+    "760": {
+        "wpaap": "walong piso ang aking pera"
+    },
+    "761": {
+        "wssip": "Windang sila sa iyong pagdating"
+    },
+    "762": {
+        "waak": "wagi ang aming koponan"
+    },
+    "763": {
+        "wmntap": "wisikan mo ng tubig ang pananim"
+    },
+    "764": {
+        "ymam": "yakap mo ay mahigpit"
+    },
+    "765": {
+        "ymanm": "yakapin mo ako ng mahigpit"
+    },
+    "766": {
+        "yakb": "yero ang kanilang bubong"
+    },
+    "767": {
+        "ynks": "yabang ng kanyang salita"
+    },
+    "768": {
+        "ylam": "yung lalaki ay matangkad"
+    },
+    "769": {
+        "yksp": "yayain kita sa pamamasyal"
+    }
+}

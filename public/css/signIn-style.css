@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../img/body-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(144, 238, 144, 0.2);
+}
+
+.bg-login-image {
+    background-image: url('../img/adminlogin.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.custom-input {
+    font-size: .8rem;
+    border-radius: 10rem;
+    padding: 1.5rem 1rem;
+}
+
+.custom-control-label {
+    position: relative;
+    margin-bottom: 0;
+    vertical-align: top;
+}
+
+.custom-control-label::before {
+    position: absolute;
+    top: .25rem;
+    left: -1.5rem;
+    display: block;
+    width: 1rem;
+    height: 1rem;
+    pointer-events: none;
+    content: "";
+    background-color: #ffffffb6;
+    border: #b7b9cc solid 1px;
+}
+
+.custom-control-label {
+  color: #858796;
+}
+
+form.user .btn-user {
+    font-size: .8rem;
+    border-radius: 10rem;
+    padding: .75rem 1rem;
+}
+
+.card-body {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
